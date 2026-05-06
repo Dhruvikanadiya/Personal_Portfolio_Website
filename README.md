@@ -23,5 +23,5 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript to s
 
 ## Contact
 
-* LinkedIn: (https://linkedin.com/in/ Dhruvi Kanadiya)
+* LinkedIn: https://linkedin.com/in/ Dhruvi Kanadiya
 * Email: dhruvikanadiya@gmail.com
