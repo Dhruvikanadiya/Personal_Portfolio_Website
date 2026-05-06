@@ -1,6 +1,5 @@
 # Personal_Portfolio_Website
 
-# Personal Portfolio Website
 
 This is my personal portfolio website built using HTML, CSS, and JavaScript to showcase my projects, skills, and contact details.
 
